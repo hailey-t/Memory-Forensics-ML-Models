@@ -39,7 +39,7 @@ The workflow consists of eight major stages:
 ---
 
 ## Repository Structure
-
+```
 memory-forensics-ml-models/
 │
 ├── training/ # PyTorch CNN training code
@@ -74,7 +74,7 @@ memory-forensics-ml-models/
 │
 └── writeup/
 └── blog_post.md
-
+```
 
 ---
 
